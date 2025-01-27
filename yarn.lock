@@ -702,14 +702,14 @@ sucrase@^3.35.0:
     ts-interface-checker "^0.1.9"
 
 "template-pdf-base64@file:":
-  version "1.1.0"
+  version "1.2.1"
   resolved "file:"
   dependencies:
     template-pdf-base64 "file:"
     templates-pdf "file:"
 
 "templates-pdf@file:":
-  version "1.1.0"
+  version "1.2.1"
   resolved "file:"
   dependencies:
     template-pdf-base64 "file:"
