@@ -1,0 +1,23 @@
+{
+  "name": "templates-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rednand/templates-pdf.git",
+  "author": "Renan de Aguiar Modesto <renan.modesto@grupomultiplica.com.br>",
+  "license": "MIT",
+  "module": "dist/index.mjs",
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "helpers",
+    "templates",
+    "pdf",
+    "base64"
+  ],
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "tsup": "6",
+    "typescript": "^5.5.2"
+  }
+}
