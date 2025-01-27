@@ -1,5 +1,5 @@
 {
-  "name": "templates-pdf",
+  "name": "template",
   "version": "1.10.5",
   "main": "index.js",
   "repository": {
@@ -24,6 +24,7 @@
     "typescript": "^5.5.2"
   },
   "dependencies": {
+    "template": "file:",
     "templates-pdf": "file:"
   }
 }
