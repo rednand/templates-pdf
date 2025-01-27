@@ -701,15 +701,15 @@ sucrase@^3.35.0:
     pirates "^4.0.1"
     ts-interface-checker "^0.1.9"
 
-"template@file:":
-  version "1.10.5"
+"template-pdf-base64@file:":
+  version "1.0.0"
   resolved "file:"
   dependencies:
-    template "file:"
+    template-pdf-base64 "file:"
     templates-pdf "file:"
 
 "templates-pdf@file:":
-  version "1.10.5"
+  version "1.0.0"
   resolved "file:"
   dependencies:
     templates-pdf "file:"
