@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "version": "1.10.5",
+  "name": "template-pdf-base64",
+  "version": "1.0.0",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -24,7 +24,7 @@
     "typescript": "^5.5.2"
   },
   "dependencies": {
-    "template": "file:",
+    "template-pdf-base64": "file:",
     "templates-pdf": "file:"
   }
 }
